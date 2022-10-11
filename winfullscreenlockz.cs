@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 
 namespace namik
 {
-    public partial class Form1 : Form
+    public partial class winfullscreenlockz : Form
     {
         public Form1()
         {
